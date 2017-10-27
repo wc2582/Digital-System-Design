@@ -21,5 +21,5 @@ Project 3:
 Design a 8 byfe FIFO buffer that interacts with two senders and one receiver.
 
 Project 4:
-Designa a pipeline processor taht compute a third degree polynomial
+Designa a pipeline processor that compute a third degree polynomial
 
